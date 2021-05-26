@@ -1,0 +1,28 @@
+/*
+Theme name: panda
+Author: Tawhid aslam
+Description: First wordpress theme development
+version: 1.0
+Author URI : https://devtawhid.pro
+Tags: wordpress theme , palto theme
+*/
+body{
+    margin: 0;
+    padding: 0;
+}
+.header_area ul li{
+    display: inline;
+    text-align: center;
+}
+.header_area ul li a{
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 16px;
+    padding: 20px 10px;
+}
+.copyright .textwidget p{
+    padding: 0;
+    margin: 0;
+}
+
+
